@@ -3,6 +3,10 @@
 An AI-powered outreach assistant built to help users create personalised messages, manage prospects, and improve communication efficiency. The system uses prospect information, company context, and campaign goals to generate relevant outreach content for email, LinkedIn, and other communication channels.
 
 Demo:
+
+
+
+
 <img width="400" height="250" alt="gif" src="https://github.com/user-attachments/assets/c6e536c7-3d89-433f-aff2-f66a1b274b60" />
 
 
